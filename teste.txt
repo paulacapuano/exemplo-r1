@@ -1,2 +1,3 @@
 Hello
 Testar o git pull.
+Agora eu estou editando no meu repositório local!
